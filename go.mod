@@ -1,3 +1,3 @@
-module github.com/nelusnegur/monkeylang
+module monkeylang
 
 go 1.25.5

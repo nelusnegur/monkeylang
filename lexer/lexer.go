@@ -1,6 +1,6 @@
 package lexer
 
-import "github.com/nelusnegur/monkeylang/token"
+import "monkeylang/token"
 
 type Lexer struct {
 	input        string

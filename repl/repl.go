@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"github.com/nelusnegur/monkeylang/token"
-	"github.com/nelusnegur/monkeylang/lexer"
+	"monkeylang/token"
+	"monkeylang/lexer"
 )
 
 const PROPMT = ">> "

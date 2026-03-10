@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/nelusnegur/monkeylang/token"
+	"monkeylang/token"
 	"testing"
 )
 
